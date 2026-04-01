@@ -1,0 +1,24 @@
+# Vertigo Vault — concrete_block.mtl
+# 텍스처 없음, Kd 색상으로 표현
+
+newmtl concrete_main
+  Kd 0.50 0.48 0.44
+  Ks 0.04 0.04 0.04
+  Ns 4.0
+  illum 1
+
+newmtl concrete_chip
+  Kd 0.40 0.38 0.34
+  Ns 3.0
+  illum 1
+
+newmtl concrete_stain
+  Kd 0.35 0.33 0.30
+  Ns 2.0
+  illum 1
+
+newmtl rebar_loop
+  Kd 0.32 0.20 0.10
+  Ks 0.22 0.14 0.08
+  Ns 20.0
+  illum 2

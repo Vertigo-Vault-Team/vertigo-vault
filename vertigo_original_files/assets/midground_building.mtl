@@ -1,0 +1,36 @@
+# Vertigo Vault — midground_building.mtl
+# 텍스처 없음, Kd 색상으로 표현
+
+newmtl building_facade
+  Kd 0.35 0.38 0.42
+  Ks 0.15 0.16 0.18
+  Ns 20.0
+  illum 2
+
+newmtl window_dark
+  Kd 0.08 0.12 0.18
+  Ks 0.60 0.65 0.70
+  Ns 110.0
+  illum 2
+
+newmtl roof_structure
+  Kd 0.30 0.32 0.35
+  Ks 0.12 0.13 0.14
+  Ns 15.0
+  illum 2
+
+newmtl antenna_base
+  Kd 0.28 0.30 0.32
+  Ns 18.0
+  illum 2
+
+newmtl antenna
+  Kd 0.55 0.52 0.48
+  Ks 0.40 0.38 0.36
+  Ns 50.0
+  illum 2
+
+newmtl building_base
+  Kd 0.28 0.28 0.30
+  Ns 10.0
+  illum 1

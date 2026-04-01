@@ -1,0 +1,32 @@
+# Vertigo Vault — cable_spool.mtl
+# 텍스처 없음, Kd 색상으로 표현
+
+newmtl spool_body
+  Kd 0.30 0.30 0.32
+  Ks 0.42 0.42 0.44
+  Ns 55.0
+  illum 2
+
+newmtl spool_flange
+  Kd 0.26 0.26 0.28
+  Ks 0.45 0.45 0.48
+  Ns 60.0
+  illum 2
+
+newmtl cable_wrap
+  Kd 0.18 0.17 0.15
+  Ks 0.40 0.40 0.38
+  Ns 60.0
+  illum 2
+
+newmtl cable_end
+  Kd 0.16 0.15 0.13
+  Ks 0.42 0.42 0.40
+  Ns 62.0
+  illum 2
+
+newmtl frame_steel
+  Kd 0.32 0.32 0.34
+  Ks 0.38 0.38 0.40
+  Ns 48.0
+  illum 2

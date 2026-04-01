@@ -1,0 +1,26 @@
+# Vertigo Vault — pulley_system.mtl
+# 텍스처 없음, Kd 색상으로 표현
+
+newmtl pulley_steel
+  Kd 0.24 0.24 0.26
+  Ks 0.55 0.55 0.58
+  Ns 80.0
+  illum 2
+
+newmtl pulley_wheel
+  Kd 0.20 0.20 0.22
+  Ks 0.65 0.65 0.68
+  Ns 95.0
+  illum 2
+
+newmtl cable_groove
+  Kd 0.12 0.12 0.13
+  Ks 0.30 0.30 0.32
+  Ns 40.0
+  illum 2
+
+newmtl cable
+  Kd 0.18 0.17 0.15
+  Ks 0.45 0.44 0.42
+  Ns 65.0
+  illum 2

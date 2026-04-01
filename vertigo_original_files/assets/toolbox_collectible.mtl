@@ -1,0 +1,48 @@
+# Vertigo Vault — toolbox_collectible.mtl
+# 텍스처 없음, Kd 색상으로 표현
+
+newmtl toolbox_body
+  Kd 0.72 0.14 0.06
+  Ks 0.35 0.10 0.05
+  Ns 40.0
+  illum 2
+
+newmtl toolbox_lid
+  Kd 0.76 0.16 0.07
+  Ks 0.38 0.12 0.06
+  Ns 42.0
+  illum 2
+
+newmtl hinge_metal
+  Kd 0.35 0.35 0.37
+  Ks 0.55 0.55 0.57
+  Ns 75.0
+  illum 2
+
+newmtl lock_body
+  Kd 0.60 0.50 0.18
+  Ks 0.50 0.45 0.20
+  Ns 85.0
+  illum 2
+
+newmtl lock_shackle
+  Kd 0.55 0.48 0.16
+  Ks 0.55 0.50 0.22
+  Ns 90.0
+  illum 2
+
+newmtl handle
+  Kd 0.28 0.28 0.30
+  Ks 0.50 0.50 0.52
+  Ns 70.0
+  illum 2
+
+newmtl scratch
+  Kd 0.48 0.08 0.03
+  Ns 15.0
+  illum 1
+
+newmtl sticker
+  Kd 0.92 0.88 0.20
+  Ns 5.0
+  illum 1

@@ -1,0 +1,14 @@
+# Vertigo Vault — steel_mesh_net.mtl
+# 텍스처 없음, Kd 색상으로 표현
+
+newmtl mesh_frame
+  Kd 0.26 0.26 0.28
+  Ks 0.50 0.50 0.52
+  Ns 70.0
+  illum 2
+
+newmtl mesh_wire
+  Kd 0.22 0.22 0.24
+  Ks 0.45 0.45 0.47
+  Ns 65.0
+  illum 2

@@ -1,0 +1,31 @@
+# Vertigo Vault — temp_fencing.mtl
+# 텍스처 없음, Kd 색상으로 표현
+
+newmtl fence_post
+  Kd 0.32 0.32 0.34
+  Ks 0.40 0.40 0.42
+  Ns 50.0
+  illum 2
+
+newmtl fence_rail
+  Kd 0.30 0.30 0.32
+  Ks 0.38 0.38 0.40
+  Ns 48.0
+  illum 2
+
+newmtl fence_base
+  Kd 0.26 0.26 0.28
+  Ns 30.0
+  illum 2
+
+newmtl fence_mesh
+  Kd 0.22 0.22 0.24
+  Ks 0.30 0.30 0.32
+  d  0.85
+  Ns 40.0
+  illum 2
+
+newmtl warning_tape
+  Kd 0.90 0.72 0.00
+  Ns 5.0
+  illum 1
