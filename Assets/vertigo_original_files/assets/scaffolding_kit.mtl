@@ -1,0 +1,26 @@
+# Vertigo Vault — scaffolding_kit.mtl
+# 텍스처 없음, Kd 색상으로 표현
+
+newmtl steel_pipe
+  Kd 0.24 0.24 0.26
+  Ks 0.50 0.50 0.52
+  Ns 75.0
+  illum 2
+
+newmtl steel_clamp
+  Kd 0.18 0.18 0.20
+  Ks 0.60 0.60 0.62
+  Ns 90.0
+  illum 2
+
+newmtl steel_platform
+  Kd 0.28 0.28 0.30
+  Ks 0.40 0.40 0.42
+  Ns 55.0
+  illum 2
+
+newmtl wood_plank
+  Kd 0.58 0.42 0.22
+  Ks 0.08 0.06 0.04
+  Ns 8.0
+  illum 1

@@ -1,0 +1,24 @@
+# Vertigo Vault — wood_plank_cracked.mtl
+# 텍스처 없음, Kd 색상으로 표현
+
+newmtl wood_cracked
+  Kd 0.42 0.30 0.14
+  Ks 0.04 0.03 0.02
+  Ns 4.0
+  illum 1
+
+newmtl wood_old
+  Kd 0.36 0.26 0.12
+  Ks 0.03 0.02 0.01
+  Ns 3.0
+  illum 1
+
+newmtl crack_dark
+  Kd 0.08 0.06 0.04
+  Ns 2.0
+  illum 1
+
+newmtl wood_support_old
+  Kd 0.32 0.22 0.10
+  Ns 3.0
+  illum 1

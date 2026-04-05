@@ -1,0 +1,19 @@
+# Vertigo Vault — safety_net_fabric.mtl
+# 텍스처 없음, Kd 색상으로 표현
+
+newmtl net_frame
+  Kd 0.70 0.55 0.10
+  Ks 0.10 0.08 0.02
+  Ns 12.0
+  illum 2
+
+newmtl net_cord
+  Kd 0.72 0.56 0.12
+  Ns 8.0
+  illum 1
+
+newmtl net_ring
+  Kd 0.30 0.30 0.32
+  Ks 0.50 0.50 0.52
+  Ns 65.0
+  illum 2
